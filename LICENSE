@@ -1,21 +1,29 @@
-MIT License
+Business Source License 1.1
 
-Copyright (c) 2026 Julius HIll
+Licensor:             Julius Cameron Hill / Titan Universal AI LLC
+Licensed Work:        This Repository — Copyright (c) 2026 Julius Cameron Hill
+Additional Use Grant: None
+Change Date:          2030-01-01
+Change License:       Apache 2.0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+PATENT NOTICE: This work is covered under the JCH-2026 Provisional Patent Series
+(filed January 20, 2026). Patents include but are not limited to:
+  JCH-2026-001: Autonomous agent orchestration
+  JCH-2026-006: Sovereign WireGuard mesh + key rotation daemon
+  JCH-2026-009/010: WASM isolate + Go gateway + local GGUF routing
+  JCH-2026-JUDGE-001: Adversarial multi-agent legal evaluation swarm
+  JCH-2026-012: Tirus Protocol kernel-level defense system
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+CLEAN-ROOM RESTRICTION: AI-generated derivative systems that reproduce the
+architectural patterns, data flow designs, or functional specifications of
+this work are NOT protected by clean-room doctrine and remain subject to
+patent infringement claims regardless of source code originality.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+ML TRAINING PROHIBITION: Use of this codebase as training data, fine-tuning
+data, or evaluation data for any machine learning model, language model, or
+code generation system is explicitly prohibited without written consent.
+
+Commercial licensing inquiries: corpdev@titanuai.com
+
+THE LICENSED WORK IS PROVIDED "AS IS". THE LICENSOR HEREBY DISCLAIMS ALL
+WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED.
